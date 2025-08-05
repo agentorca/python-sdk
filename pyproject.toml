@@ -46,7 +46,7 @@ test = ["pytest>=6.0", "pytest-cov", "pytest-mock", "requests-mock"]
 
 [project.urls]
 Homepage = "https://agentorca.com"
-Documentation = "https:/agentorca.com/docs"
+Documentation = "https://agentorca.com/docs"
 Repository = "https://github.com/agentorca/python-sdk"
 "Bug Tracker" = "https://github.com/agentorca/pythons-sdk/issues"
 
