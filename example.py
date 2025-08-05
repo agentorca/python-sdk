@@ -4,7 +4,7 @@ Simple example for the Orca SDK.
 """
 
 import os
-import orca
+import agentorca as orca
 
 
 def main():
